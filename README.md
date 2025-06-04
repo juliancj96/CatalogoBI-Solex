@@ -40,7 +40,7 @@ Un dashboard en el sector bancario es fundamental para optimizar la toma de deci
 
 - [Página web](https://prod-useast-b.online.tableau.com/#/site/solexdemo/views/Informefraudescontarjetasdecredito/Tarjetasdecreditofraudulentas?:iid=1)
 
-![Retail](/bancario)
+![Retail](/bancario-png)
 
 ## Pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
 
