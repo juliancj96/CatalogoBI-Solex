@@ -46,8 +46,8 @@ Un dashboard en el sector bancario es fundamental para optimizar la toma de deci
 
 Un dashboard en el sector salud es esencial para mejorar la eficiencia en la gestión de datos clínicos y administrativos, permitiendo a los profesionales y directivos tomar decisiones informadas en tiempo real. Este tipo de herramienta visualiza indicadores clave como tasas de ocupación hospitalaria, tiempos de espera, resultados de pacientes, y eficiencia operativa, todo en un solo lugar. Al integrar datos de diferentes fuentes, un dashboard de salud facilita el monitoreo de la calidad del servicio, la detección temprana de problemas y la optimización de recursos. Además, la capacidad de personalizar y actualizar la información constantemente mejora la capacidad de respuesta ante emergencias y garantiza un entorno más ágil y transparente para todos los involucrados en la atención médica.
 
-![Tableau](https://public.tableau.com/app/profile/julian.cruz6873/viz/Dashboardsalud2/Overview?publish=yes)
+![Tableau](https://img.shields.io/badge/Tableau-007fff?style=for-the-badge&logo=power-bi&logoColor=white)
 
 - [Página web](https://prod-useast-b.online.tableau.com/#/site/solexdemo/views/Informefraudescontarjetasdecredito/Tarjetasdecreditofraudulentas?:iid=1)
 
-![Bancario](/bancario.png)
+![Salud](/salud.png)
