@@ -30,9 +30,11 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecj/)
 [![WebSite](https://img.shields.io/badge/WebSite-0077B5?style=for-the-badge&logo=website&logoColor=white)](mailto:santicar1809@gmail.com)
 
-## Sectores
+## Productos por Sector
 
-### Management Solutions
+# Sector Bancario y Financiero
+
+Un dashboard en el sector bancario es fundamental para optimizar la toma de decisiones estratégicas al ofrecer una visualización clara y en tiempo real de los datos clave. Permite monitorear indicadores financieros, riesgos, tendencias de mercado y desempeño de productos o servicios, todo en un solo lugar. Con gráficos interactivos y análisis detallados, los usuarios pueden identificar patrones, prever escenarios futuros y responder rápidamente a situaciones cambiantes. Este tipo de herramienta no solo mejora la eficiencia operativa, sino que también facilita el cumplimiento normativo y la gestión de riesgos, permitiendo a los bancos tomar decisiones informadas y competitivas en un entorno dinámico.
 
 **Business Data Analyst (11/2023 – actualmente)**
 
