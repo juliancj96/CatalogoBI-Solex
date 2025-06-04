@@ -42,58 +42,12 @@ Un dashboard en el sector bancario es fundamental para optimizar la toma de deci
 
 ![Bancario](/bancario.png)
 
-## Pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
+## Sector Salud
 
-**Herramientas del proyecto:**
+Un dashboard en el sector salud es esencial para mejorar la eficiencia en la gestión de datos clínicos y administrativos, permitiendo a los profesionales y directivos tomar decisiones informadas en tiempo real. Este tipo de herramienta visualiza indicadores clave como tasas de ocupación hospitalaria, tiempos de espera, resultados de pacientes, y eficiencia operativa, todo en un solo lugar. Al integrar datos de diferentes fuentes, un dashboard de salud facilita el monitoreo de la calidad del servicio, la detección temprana de problemas y la optimización de recursos. Además, la capacidad de personalizar y actualizar la información constantemente mejora la capacidad de respuesta ante emergencias y garantiza un entorno más ágil y transparente para todos los involucrados en la atención médica.
 
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://public.tableau.com/app/profile/julian.cruz6873/viz/Dashboardsalud2/Overview?publish=yes)
 
-**Fases:**
+- [Página web](https://prod-useast-b.online.tableau.com/#/site/solexdemo/views/Informefraudescontarjetasdecredito/Tarjetasdecreditofraudulentas?:iid=1)
 
-- Análisis exploratorio de datos para crear insights y generar preguntas a responder. 
-- Elaboración de modelo predictivo de clasificación de clientes que detecte los que cancelen para ofrecer promociones y aplicar técnicas de retención.
-- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/interconect).**
-
-![Churn](/assets/img/churn.jpeg)
-
-## Filtro y categorización de reseñas de películas con modelos predictivos - mayo 2024
-
-**Herramientas del proyecto:**
-
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-357ebd?style=for-the-badge)
-![Spacy](https://img.shields.io/badge/Spacy-357ebd?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-017E7E?style=for-the-badge&logo=LightGBM&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FFC107?style=for-the-badge&logo=BERT&logoColor=black)
-![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=CatBoost&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Fases:**
-
-- Lematización y tokenización de palabras para modelamiento. 
-- Elaboración de modelos de clasificación de reseñas como positivas o negativas.
-- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/aprendizaje_automatico_textos).**
-
-![NLP](/assets/img/nlp.jpeg)
-
-## Predicción de edad con imagenes - junio 2024
-
-**Herramientas del proyecto:**
-
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-blue?style=for-the-badge&logo=opencv&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Fases:**
-
-- Preprocesamiento de imagenes.
-- Elaboración de modelos de redes neuronales.
-- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/aprendizaje_automatico_textos).**
-
-![CV](/assets/img/cv.jpeg)
+![Bancario](/bancario.png)
