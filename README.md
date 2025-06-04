@@ -6,6 +6,9 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 
 ## Herramientas de BI
 
+![Tableau](https://img.shields.io/badge/Tableau-007fff?style=for-the-badge&logo=power-bi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff8000?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,16 +33,9 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 ![SSMS](https://img.shields.io/badge/SSMS-%23357ebd.svg?style=for-the-badge)
 ![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-%23357ebd.svg?style=for-the-badge)
 ![Análisis estadístico](https://img.shields.io/badge/An%C3%A1lisis_Estad%C3%ADstico-%23357ebd.svg?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau)
 ![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white)
 
-## Habilidades blandas
-
-- Inteligencia emocional.
-- Colaboración y comunicación efectiva.
-- Gestión del tiempo y priorización de tareas.
-- Orientación a la resolución de problemas y atención al detalle.
-- Comunicación efectiva: Capacidad para transmitir ideas y conocimientos de manera clara y comprensible.
+## Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santicar1809@gmail.com)
