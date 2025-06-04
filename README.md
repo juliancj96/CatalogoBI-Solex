@@ -30,52 +30,17 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecj/)
 [![WebSite](https://img.shields.io/badge/WebSite-0077B5?style=for-the-badge&logo=website&logoColor=white)](mailto:santicar1809@gmail.com)
 
-## Productos por Sector
+# Productos por Sector
 
-# Sector Bancario y Financiero
+## Sector Bancario y Financiero
 
 Un dashboard en el sector bancario es fundamental para optimizar la toma de decisiones estratégicas al ofrecer una visualización clara y en tiempo real de los datos clave. Permite monitorear indicadores financieros, riesgos, tendencias de mercado y desempeño de productos o servicios, todo en un solo lugar. Con gráficos interactivos y análisis detallados, los usuarios pueden identificar patrones, prever escenarios futuros y responder rápidamente a situaciones cambiantes. Este tipo de herramienta no solo mejora la eficiencia operativa, sino que también facilita el cumplimiento normativo y la gestión de riesgos, permitiendo a los bancos tomar decisiones informadas y competitivas en un entorno dinámico.
 
-**Business Data Analyst (11/2023 – actualmente)**
+![Tableau](https://img.shields.io/badge/Tableau-007fff?style=for-the-badge&logo=power-bi&logoColor=white)
 
-- Colaboro con el equipo de contabilidad para el desarrollo de nuevas consultas en SQL.
-- Preproceso los datos utilizando herramientas en Python como Pandas, Numpy y Scikit-learn.
-- Descubro insights de la visualización de los datos en matplotlib, seaborn, plotly y Power BI.
-- Desarrollo nuevos reportes financieros asegurando la calidad y validez de los datos.
-- Reviso la conciliación de los nuevos reportes contables para asegurar que cuadre con los modelos actuales.
-- Aseguro la validez y calidad de las fuentes de información para el nuevo modelo de datos.
-- Trabajo con distintos clientes e industrias para los proyectos realizados.
-- Realizo seguimientos semanales del proyecto con el cliente para informar la completitud del proyecto y próximos pasos.
+- [Página web](https://prod-useast-b.online.tableau.com/#/site/solexdemo/views/Informefraudescontarjetasdecredito/Tarjetasdecreditofraudulentas?:iid=1)
 
-# Proyectos seleccionados
-
-## Primer puesto de Hackaton de segmentación de clientes de compañía del sector de retail - julio 2024
-
-**Herramientas del proyecto:**
-
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![KMeans](https://img.shields.io/badge/KMeans-0078D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Fases:**
-
-- Limpieza de los datos para eliminar valores faltantes y crear nuevas columnas. 
-- Análisis exploratorio de datos para crear insights sobre el comportamiento de los clientes y diseñando visualizaciones para la explicación de los hallazgos. 
-- Diseño de algoritmo de clusterizado para agrupar los distintos segmentos de clientes.
-- Diseño de pagina web para presentar los resultados de la segmentación e insights. 
-- Repositorio git datos: 
-- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
-- [Página web](https://hackatonersfrontend.onrender.com/)
-
-![Retail](/assets/img/retail.jpeg)
+![Retail](/bancario)
 
 ## Pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
 
