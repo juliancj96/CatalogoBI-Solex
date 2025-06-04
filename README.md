@@ -86,3 +86,16 @@ Un dashboard en el sector de telecomunicaciones es esencial para monitorear y ge
 
 ![Teleco](/teleco.png)
 
+## Sector Educación
+
+El uso de modelos y análisis en Python en el sector retail y comercio electrónico es crucial para obtener insights profundos y tomar decisiones basadas en datos. A través de algoritmos de análisis predictivo y machine learning, se pueden identificar patrones de comportamiento de clientes, optimizar precios, gestionar inventarios de manera eficiente y personalizar ofertas en tiempo real. Python permite procesar grandes volúmenes de datos, como transacciones, interacciones en línea y tendencias de consumo, brindando una ventaja competitiva al predecir la demanda, mejorar la experiencia del cliente y maximizar la rentabilidad. Este enfoque data-driven facilita una toma de decisiones más ágil, precisa y rentable, adaptándose constantemente a las dinámicas del mercado y las preferencias del consumidor.
+
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Retail1](/matriz_de_confunsion_educacion.png)
+
+Este análisis utilizando un modelo de regresión en Python, como el Random Forest, permite intentar predecir la demanda de productos en función de variables clave como el precio, promociones, días festivos y el comportamiento de los consumidores. Las métricas de rendimiento, como el MSE (error cuadrático medio), R² (coeficiente de determinación) y MAE (error absoluto medio), permite indicar que el modelo ofrece una buena aproximación a los datos, lo que ayuda a las empresas del sector retail y comercio electrónico a optimizar sus estrategias de precios y promociones. Además, las visualizaciones de los resultados permiten detectar patrones y ajustar las decisiones en tiempo real, lo que es crucial para mantener la competitividad en un mercado tan dinámico.
