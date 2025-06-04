@@ -15,32 +15,22 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-357ebd?style=for-the-badge)
-![Spacy](https://img.shields.io/badge/Spacy-357ebd?style=for-the-badge)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23357ebd.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-%23357ebd.svg?style=for-the-badge)
 ![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-%23357ebd.svg?style=for-the-badge)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-%23357ebd.svg?style=for-the-badge)
 ![Databricks](https://img.shields.io/badge/Databricks-%23357ebd.svg?style=for-the-badge)
-![Synapse Studio](https://img.shields.io/badge/Synapse_Studio-%23357ebd.svg?style=for-the-badge)
 ![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-%23357ebd.svg?style=for-the-badge)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%23357ebd.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%23357ebd.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%23357ebd.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23357ebd.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-%23357ebd.svg?style=for-the-badge)
 ![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-%23357ebd.svg?style=for-the-badge)
 ![Análisis estadístico](https://img.shields.io/badge/An%C3%A1lisis_Estad%C3%ADstico-%23357ebd.svg?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ## Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santicar1809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecj/)
+[![WebSite](https://img.shields.io/badge/WebSite-0077B5?style=for-the-badge&logo=website&logoColor=white)](mailto:santicar1809@gmail.com)
 
-## Experiencia Laboral
+## Sectores
 
 ### Management Solutions
 
