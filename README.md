@@ -118,10 +118,28 @@ El uso de modelos y análisis en Python en el sector energético es clave para o
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Retail1](/Matrizeducacion.png)
+![Energia1](/energia1.png)
 
-La matriz de confusión muestra cómo se distribuyen las predicciones del modelo en relación con los valores reales. En este caso, de los 300 estudiantes analizados, 183 no abandonaron y fueron correctamente predichos como "No Abandona" (verdaderos negativos), mientras que 61 estudiantes que no abandonaron fueron incorrectamente predichos como "Abandona" (falsos positivos). Por otro lado, 41 estudiantes que realmente abandonaron fueron incorrectamente clasificados como "No Abandona" (falsos negativos), y 15 estudiantes que realmente abandonaron fueron correctamente identificados como "Abandona" (verdaderos positivos).
+La gráfica de dispersión muestra la comparación entre la demanda real de energía y la demanda predicha por el modelo. Los puntos azules representan los datos reales versus las predicciones del modelo, mientras que la línea roja discontinua indica la tendencia ideal de predicción perfecta. Como se observa, el modelo tiene una relación lineal sólida entre las dos variables, lo que sugiere que está haciendo predicciones razonablemente buenas para la demanda de energía, con un pequeño margen de error. Este tipo de visualización es útil para evaluar el desempeño del modelo y su capacidad para prever la demanda futura de manera efectiva.
 
-![Retail2](/CurvaROC.png)
+![Retail2](/energia2.png)
 
-La Curva ROC muestra la capacidad del modelo para distinguir entre estudiantes en riesgo de abandono y aquellos que no lo están. Con un AUC de 0.53, la curva indica que el modelo tiene un desempeño medio, lo que sugiere que el modelo necesita mejoras. Idealmente, el AUC debería acercarse a 1 para indicar una buena capacidad de clasificación, pero con un AUC de 0.53.
+La gráfica de importancia de características muestra cómo cada variable contribuye a la predicción de la demanda de energía. La Demanda Histórica tiene la mayor influencia en las predicciones, seguida por la Temperatura, la Hora del día, la Humedad y finalmente el Día de la semana, que tienen un impacto significativamente menor. Esta visualización es crucial para comprender qué factores son los más determinantes en la demanda energética, permitiendo a las empresas de energía enfocar sus esfuerzos de predicción y optimización en las variables más influyentes.
+
+## Sector Textil
+
+El uso de modelos y análisis en Python en el sector textil es crucial para optimizar la producción, prever la demanda de productos y mejorar la eficiencia en la cadena de suministro. Mediante algoritmos de machine learning y análisis predictivo, las empresas pueden analizar patrones de consumo, tendencias de mercado y comportamiento de los clientes, lo que permite ajustar las estrategias de diseño, producción y distribución de manera ágil. Además, estos modelos ayudan a reducir costos operativos, gestionar inventarios de manera más eficiente y personalizar ofertas según las preferencias del consumidor. Al integrar datos históricos, de ventas y de tendencias de moda, el análisis predictivo permite a las empresas textiles mantenerse competitivas y adaptarse rápidamente a los cambios del mercado.
+
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Energia1](/energia1.png)
+
+La gráfica de dispersión muestra la relación entre la demanda real de producto y la demanda predicha por el modelo. Los puntos azules representan las predicciones del modelo en comparación con los valores reales, mientras que la línea roja discontinua indica la tendencia ideal, donde las predicciones coinciden exactamente con los valores reales. Aunque la relación es más estrecha en esta visualización, todavía se observa algo de dispersión, lo que sugiere que el modelo aún tiene margen de mejora para ajustarse con mayor precisión a los datos.
+
+![Retail2](/energia2.png)
+
+La gráfica de importancia de características muestra la contribución de cada variable en la predicción de la demanda de productos. La Tendencia de Ventas es la característica más influyente, con una gran diferencia respecto a las demás. Las Promociones también tienen un impacto considerable, mientras que variables como Estacionalidad, Mes, Precio y Día Festivo juegan un papel más reducido en la predicción. Esta visualización es clave para entender qué factores deben ser priorizados para mejorar la precisión de las predicciones y optimizar la gestión de inventarios.
