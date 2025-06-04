@@ -84,5 +84,5 @@ Un dashboard en el sector de telecomunicaciones es esencial para monitorear y ge
 
 - [Página web](https://public.tableau.com/app/profile/andrea.rodriguez8709/viz/EmpresadeTelecomunicacioncursoTableau/Usuariosnuevosporempresa)
 
-![Salud](/gobierno.png)
+![Teleco](/teleco.png)
 
