@@ -136,10 +136,10 @@ El uso de modelos y análisis en Python en el sector textil es crucial para opti
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Energia1](/energia1.png)
+![Textil1](/textil1.png)
 
 La gráfica de dispersión muestra la relación entre la demanda real de producto y la demanda predicha por el modelo. Los puntos azules representan las predicciones del modelo en comparación con los valores reales, mientras que la línea roja discontinua indica la tendencia ideal, donde las predicciones coinciden exactamente con los valores reales. Aunque la relación es más estrecha en esta visualización, todavía se observa algo de dispersión, lo que sugiere que el modelo aún tiene margen de mejora para ajustarse con mayor precisión a los datos.
 
-![Retail2](/energia2.png)
+![Textil2](/textil2.png)
 
 La gráfica de importancia de características muestra la contribución de cada variable en la predicción de la demanda de productos. La Tendencia de Ventas es la característica más influyente, con una gran diferencia respecto a las demás. Las Promociones también tienen un impacto considerable, mientras que variables como Estacionalidad, Mes, Precio y Día Festivo juegan un papel más reducido en la predicción. Esta visualización es clave para entender qué factores deben ser priorizados para mejorar la precisión de las predicciones y optimizar la gestión de inventarios.
