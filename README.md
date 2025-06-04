@@ -72,7 +72,17 @@ Un dashboard en el sector salud es esencial para mejorar la eficiencia en la ges
 
 ![Tableau](https://img.shields.io/badge/Tableau-007fff?style=for-the-badge&logo=power-bi&logoColor=white)
 
-- [Página web](https://prod-useast-b.online.tableau.com/#/site/solexdemo/views/Informefraudescontarjetasdecredito/Tarjetasdecreditofraudulentas?:iid=1)
+- [Página web](https://public.tableau.com/app/profile/observatorio.de.politica.criminal.minjusticia/viz/Homicidios2020/Dashboard1)
 
-![Salud](/salud.png)
+![Salud](/gobierno.png)
+
+## Sector Telecomunicaciones
+
+Un dashboard en el sector de telecomunicaciones es esencial para monitorear y gestionar en tiempo real el rendimiento de los servicios, la calidad de la red y la satisfacción del cliente. Permite visualizar indicadores clave como la disponibilidad de red, la utilización de ancho de banda, tiempos de respuesta, número de incidencias y churn rate, todo en un solo lugar. Al integrar datos de diversas fuentes, un dashboard proporciona a los operadores de telecomunicaciones una herramienta para identificar y resolver problemas de manera proactiva, mejorar la eficiencia operativa, optimizar la experiencia del cliente y tomar decisiones basadas en datos.
+
+![Tableau](https://img.shields.io/badge/Tableau-007fff?style=for-the-badge&logo=power-bi&logoColor=white)
+
+- [Página web](https://public.tableau.com/app/profile/andrea.rodriguez8709/viz/EmpresadeTelecomunicacioncursoTableau/Usuariosnuevosporempresa)
+
+![Salud](/gobierno.png)
 
