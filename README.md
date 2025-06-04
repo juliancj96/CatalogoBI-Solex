@@ -28,6 +28,11 @@ El proyecto se sustenta en el análisis de estos sectores y en la definición de
 ![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-%23357ebd.svg?style=for-the-badge)
 ![Análisis estadístico](https://img.shields.io/badge/An%C3%A1lisis_Estad%C3%ADstico-%23357ebd.svg?style=for-the-badge)
 
+## Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecj/)
+[![WebSite](https://img.shields.io/badge/WebSite-0077B5?style=for-the-badge&logo=website&logoColor=white)](https://www.solex.biz/)
+
 # Productos por Sector
 
 ## Sector Bancario y Financiero
